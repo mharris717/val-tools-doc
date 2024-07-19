@@ -34,6 +34,7 @@ export const FileIdentSchemaProper = z.object({
 ### Hono Helper
 
 Accepts a method to execute and a Zod schema
+
 Returns a Hono app meeting the spec
 
 <iframe width="100%" height="400px" src="https://www.val.town/embed/mharris717/makeHonoTool" title="Val Town" frameborder="0" allow="web-share" allowfullscreen></iframe>
