@@ -42,6 +42,6 @@ Returns a Hono app meeting the spec
 
 This is the main code for connecting a Val Tool to an LLM call. This is uses the Vercel AI SDK, but the concept makes sense regardless. 
 
-<video><source src="https://github.com/mharris717/val-tools-doc/raw/main/valtool.mp4"></video>
+<video controls><source src="https://github.com/mharris717/val-tools-doc/raw/main/valtool.mp4"></video>
 
 <script src="https://gist.github.com/mharris717/695e4e9572998e70d65c74221abce40d.js"></script>
